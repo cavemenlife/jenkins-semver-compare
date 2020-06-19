@@ -3,7 +3,7 @@
 pipeline {
     agent {
         node {
-            label "non_prod_javastack"
+            label "non_prod_odoostack"
         }
     }
 
